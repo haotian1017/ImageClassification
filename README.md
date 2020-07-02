@@ -1,12 +1,12 @@
 # Final Project
 ## Welcome to the final project of Deep Learning!
 
-- Hongxu Hao (hh2302)
-- Haotian Guan (hg1580)
 
+- Haotian Guan 
+- Hongxu Hao 
 
 ## Here we present several deep learning method to help medical community identify the existence of Intracranial Hemorrhage from CT scans of head.
-Please refer to Intracranial Hemorrhage Detection Final Paper.pdf for details of each model. Code of each section is also included here. 
+
 
 
 
@@ -42,16 +42,7 @@ their result. The result of baseline model include accuracy and loss for trainin
 The result for EfficientNet-b7 include accuracy and loss for training, validation and test set, plus its auc
 for test set.
 
-## File8. resnet_best_out2.pickle
-This file contains the trained parameters of  Resnet18
-
-## File9. densenet_best_out2.pickle
-This file contains the trained parameters of best performance model DenseNet169
-
-## File10. IH_final.zip
-This is the csv files of stage1 and stage2 label after being cleaned and split
-
-## File11. train_metadata.csv
+## File8. train_metadata.csv
 This is the meta data for patients including patient ID
 
 ## Detailed informations and guidelines are shown in our project paper. Thank you for reading our paper!
