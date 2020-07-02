@@ -5,7 +5,7 @@
 - Haotian Guan (hg1580)
 
 
-##Here we present several deep learning method to help medical community identify the existence of Intracranial Hemorrhage from CT scans of head.
+## Here we present several deep learning method to help medical community identify the existence of Intracranial Hemorrhage from CT scans of head.
 Please refer to Intracranial Hemorrhage Detection Final Paper.pdf for details of each model. Code of each section is also included here. 
 
 
